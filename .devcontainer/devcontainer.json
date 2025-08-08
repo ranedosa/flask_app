@@ -8,7 +8,8 @@
   "portsAttributes": {
     "3030": {
       "label": "Flask App",
-      "onAutoForward": "notify"
+      "onAutoForward": "notify",
+      "visibility": "public"
     }
   },
   "postCreateCommand": "pip install -r requirements.txt",
