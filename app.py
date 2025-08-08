@@ -64,7 +64,6 @@ def login():
             <input type="submit" value="Login">
         </p>
     </form>
-    <p><small>Demo users: admin/password or user/123456</small></p>
     ''')
 
 
